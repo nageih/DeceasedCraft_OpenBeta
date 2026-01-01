@@ -844,7 +844,7 @@
   "quest.guide.world.compass.subtitle": "Guide to Nowhere",
   "quest.guide.world.compass.description_1": "A \u00a7bNature's Compass\u00a7r is invaluable for finding biomes such as the \u00a7bvolcano\u00a7r and \u00a7bwasteland\u00a7r, as well for locating \u00a7bdistricts\u00a7r.",
   "quest.guide.world.compass.description_2": "\u00a76Useful biomes to search for:\u00a7r\n\n\u00a7bSnowy Plains\u00a7r = \u00a7eRetail District\u00a7r\n\u00a7bConiferous Forest\u00a7r = \u00a7eHighrise Residential District\u00a7r\n\u00a7bPlain\u00a7r = \u00a7eHighrise Office District\u00a7r\n\u00a7bRainforest\u00a7r = \u00a7eHighrise Hotel District\u00a7r",
-  "quest.guide.world.compass.description_3": "\u00a7NOTE:\u00a7r The compass will always guide you to the closest biome of that type within \u00a765000\u00a7r blocks, so travel in the opposite direction if the biome you find doesn't end up suitable for you!",
+  "quest.guide.world.compass.description_3": "\u00a7cNOTE:\u00a7r The compass will always guide you to the closest biome of that type within \u00a765000\u00a7r blocks, so travel in the opposite direction if the biome you find doesn't end up suitable for you!",
   "quest.guide.tutorial.districts.title": "Suburb Residential - \u00a7eTier 1 District\u00a7r",
   "quest.guide.tutorial.districts.subtitle": "What do you mean people live in these?",
   "quest.guide.tutorial.districts.description_1": "This modpack is split into \u00a766\u00a7r districts, each with increasing \u00a7cdifficulty\u00a7r and \u00a7ctempreature\u00a7r.",
