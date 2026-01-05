@@ -1438,7 +1438,7 @@
   "quest.storage.processor_advanced.desc_2": "§cПРИМЕЧАНИЕ:§r Создание этого компонента - очень сложный процесс - подумайте о том, чтобы торговать или добывать их вместо этого!",
   "quest.storage.controller.title": "Контроллер",
   "quest.storage.controller.subtitle": "Сияющий...",
-  "quest.storage.controller.desc_1": "Каждая система Очищенного Хранения требует контроллера. Это действует как батарея для системы и может быть запитано с любой стороны. Он загорится, если будет правильно настроен.",
+  "quest.storage.controller.desc_1": "Каждая система Улучшенная Хранения требует контроллера. Это действует как батарея для системы и может быть запитано с любой стороны. Он загорится, если будет правильно настроен.",
   "quest.storage.controller.desc_2": "§bХотя этот блок можно создать, он также доступен в качестве добычи в городе.§r",
   "quest.storage.machine_casing.title": "Корпус Машины",
   "quest.storage.machine_casing.desc_1": "Корпуса машин используются для создания многих блоков в моде, включая Контроллер.",
@@ -1613,7 +1613,7 @@
   "quest.tech.nuclear.guidebook.lead_plate.description_2": "Как и сталь, настоятельно рекомендуется автоматизировать производство свинца, если вы планируете строить более крупные реакторы.",
   "quest.tech.nuclear.guidebook.graphite_electrode.description_1": "Графитовые электроды используются для управляющих стержней реактора.",
   "quest.tech.nuclear.guidebook.graphite_electrode.description_2": "Поскольку они также используются в Арковой печи от Immersive Engineering, рассмотрите возможность модернизации вашей плавильной установки, чтобы воспользоваться увеличенным выходом руды.",
-  "quest.tech.nuclear.machine_casing.subtitle": "Кости реактора",
+  "quest.tech.nuclear.machine_casing.subtitle": "Корпус реактора",
   "quest.tech.nuclear.machine_casing.description_1": "Корпуса машин используются для создания корпуса реактора.",
   "quest.tech.nuclear.machine_casing.description_2": "Поскольку они также используются для многих компонентов Refined Storage, рассмотрите возможность автоматизации этого компонента!",
   "quest.tech.nuclear.reactor_fuel_rod.subtitle": "Сердце реактора",
@@ -1855,13 +1855,13 @@
   "quest.collection.badges": "1 - Значки",
   "quest.collection.plushies": "2 - Плюшевые Игрушки",
   "quest.collection.discs": "3 - Музыкальные Диски",
-  "quest.credits": "§6§lКредиты",
-  "quest.credits.credits": "Кредиты",
+  "quest.credits": "§6§lБлагодарность",
+  "quest.credits.credits": "Благодарность",
   "quest.credits.title": "Конец!",
   "quest.credits.subtitle": "История Продолжается...",
   "quest.credits.description_1": "Мы надеемся, что вам понравился DeceasedCraft!",
   "quest.credits.description_2": "Для отзывов и предложений обязательно посетите наш §bDiscord§r.",
-  "quest.credits.description_3": "Не стесняйтесь поддержать нас на §bPatreon§r, пока мы продолжаем улучшать опыт использования этого пакета!",
+  "quest.credits.description_3": "Не стесняйтесь поддержать нас на §bPatreon§r, пока мы продолжаем улучшать опыт использования этого модпака!",
   "quest.credits.description_4": "Особая благодарность:\n§6MrJty§r - Автор Мода Lost Cities\n§6legsandarms§r - Автор Мода Undead Revamped\n§6Bogdan_Off§r - Разное. Поддержка Моддинга\n§6VM 汉化组§r - Китайский Перевод",
   "lore.deceasedcraft.redstone_division.note_1.title": "Система Сообщений Отдела Красного Камня\nФайл 1 - Уровень Доступа: Черный",
   "lore.deceasedcraft.redstone_division.note_1.content.1": "Орбитальная Группа\nОтдел Красного Камня\nУровень Доступа: Черный\nТолько для Исполнительного Уровня",
@@ -2736,6 +2736,7 @@
   "npc.deceasedcraft.professor.quest.cure_sample.answer.1": ""
 
 }
+
 
 
 
