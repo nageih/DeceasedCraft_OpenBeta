@@ -1214,12 +1214,12 @@
   "quest.combat.guns.steel_mechanical.description_1": "Можно найти в §6Уровень 3§r районах.",
   "quest.combat.guns.attachment.description_1": "Части прикреплений можно найти в §bвысокозащищенных§r зонах.",
   "quest.combat.guns.pistol.description_1": "Части пистолета можно найти в районе §bПригородная Жилая Зона§r.",
-  "quest.combat.guns.smg.description_1": "Части ПП можно найти в районе §bВысотный Офис§r.",
-  "quest.combat.guns.shotgun.description_1": "Части дробовика можно найти в районе §bВысотная Жилая Зона§r.",
-  "quest.combat.guns.rifle.description_1": "Части винтовки можно найти в районе §bВысотный Отель§r или §bРозничная Торговля§r.",
+  "quest.combat.guns.smg.description_1": "Части ПП можно найти в районе §bДеловой центр§r.",
+  "quest.combat.guns.shotgun.description_1": "Части дробовика можно найти в районе §bСпальный район§r.",
+  "quest.combat.guns.rifle.description_1": "Части винтовки можно найти в районе §bОтелей§r или §bРозничная Торговля§r.",
   "quest.combat.guns.sniper.description_1": "Части снайперской винтовки можно найти в §bПустоши§r.",
   "quest.combat.guns.hmg.description_1": "Части НМГ можно найти в §bПустоши§r.",
-  "quest.combat.guns.special.description_1": "Специальные части можно найти в §bБездна§r.",
+  "quest.combat.guns.special.description_1": "Специальные части можно найти в §bБездне§r.",
   "quest.combat.defense": "Ловушки и Оборона",
   "quest.combat.defense.automated_defense.title": "Автоматизированная Оборона",
   "quest.combat.defense.automated_defense.subtitle": "Не совсем игра в защиту башни",
@@ -1398,9 +1398,9 @@
   "quest.tech.advancedmaterials.high_resistance_fiber.description_1": "Смешайте расплавленный нетерриторический сталь и фенольную смолу в §esuperheated§r бассейне Create, чтобы создать волокно высокой устойчивости.",
   "quest.tech.advancedmaterials.high_resistance_fabric.title": "Ткань Высокой Устойчивости",
   "quest.tech.advancedmaterials.high_resistance_fabric.subtitle": "О, пока мы на этом, мы сделали Ткань 2 тоже",
-  "quest.tech.advancedmaterials.high_resistance_fabric.description_1": "Создайте четыре волокна высокой устойчивости вместе, чтобы создать ткань высокой устойчивости.",
-  "quest.tech.advancedmaterials.molten_nethersteel.title": "Расплавленный Нетерриторический Сталь",
-  "quest.tech.advancedmaterials.molten_nethersteel.description_1": "Разбейте нетерриторическую сталь на самородки, затем расплавьте самородки в нагретом бассейне Create с крышкой литейного завода, чтобы создать расплавленный нетерриторический сталь.",
+  "quest.tech.advancedmaterials.high_resistance_fabric.description_1": "Соедените четыре волокна высокой устойчивости вместе, чтобы создать ткань высокой устойчивости.",
+  "quest.tech.advancedmaterials.molten_nethersteel.title": "Расплавленный Незеритовская Сталь",
+  "quest.tech.advancedmaterials.molten_nethersteel.description_1": "Разбейте незеритовскую сталь на самородки, затем расплавьте самородки в нагретом бассейне Create с крышкой литейного завода, чтобы создать расплавленный нетерриторический сталь.",
   "quest.tech.advancedmaterials.nethersteel.title": "Нетерриторическая Сталь",
   "quest.tech.advancedmaterials.nethersteel.description": "Смешайте нетеритовые самородки и чугунные слитки в §esuperheated§r бассейне Create, чтобы создать нетерриторическую сталь.",
   "quest.tech.advancedmaterials.cast_iron_ingot.title": "Чугунный Слиток",
@@ -2736,6 +2736,7 @@
   "npc.deceasedcraft.professor.quest.cure_sample.answer.1": ""
 
 }
+
 
 
 
